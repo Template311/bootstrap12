@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.tables{
+    margin-left: 150px;
+}
+.table2 h2{
+    margin-left: 118px;
+    margin-top: 25px;
+}
+.table2 ul{
+    margin-left: 160px;
+    margin-top: 25px;
+}
+.table3{
+    margin-left: 145px;
+    margin-top: 45px;
+}
+
+.dropdown{
+    display: none;
+}
+.dropdown{
+    display: block;
+    position: absolute;
+    background: rgb(43,87,98);
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.dropdown ul{
+    display: block;
+    margin: 10px;
+}
+.dropdown ul li{
+    width: 150px;
+    padding: 10px;
+    background: transparent;
+    border-radius: 0;
+    text-align: left;
+}
+.dropdown ul li a:hover{
+    color: darkgoldenrod;
+}
